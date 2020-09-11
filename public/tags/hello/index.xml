@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello on Return-to-libc</title>
+    <link>https://return-to-libc.com/tags/hello/</link>
+    <description>Recent content in hello on Return-to-libc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 18:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://return-to-libc.com/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://return-to-libc.com/posts/hello-world/</link>
+      <pubDate>Sun, 26 Apr 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/posts/hello-world/</guid>
+      <description>Welcome to Return-to-libc Hello everyone and welcome to the Return-to-libc blog.
+This blog was created with the objetive of sharing and learning computer security knowledge.
+Stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>

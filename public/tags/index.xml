@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Return-to-libc</title>
+    <link>https://return-to-libc.com/tags/</link>
+    <description>Recent content in Tags on Return-to-libc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2020 18:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://return-to-libc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>network</title>
+      <link>https://return-to-libc.com/tags/network/</link>
+      <pubDate>Fri, 11 Sep 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>promiscuous</title>
+      <link>https://return-to-libc.com/tags/promiscuous/</link>
+      <pubDate>Fri, 11 Sep 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/promiscuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware</title>
+      <link>https://return-to-libc.com/tags/vmware/</link>
+      <pubDate>Fri, 11 Sep 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workstation</title>
+      <link>https://return-to-libc.com/tags/workstation/</link>
+      <pubDate>Fri, 11 Sep 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/workstation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>https://return-to-libc.com/tags/hello/</link>
+      <pubDate>Sun, 26 Apr 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world</title>
+      <link>https://return-to-libc.com/tags/world/</link>
+      <pubDate>Sun, 26 Apr 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network on Return-to-libc</title>
+    <link>https://return-to-libc.com/tags/network/</link>
+    <description>Recent content in network on Return-to-libc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Sep 2020 18:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://return-to-libc.com/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disable promiscuous mode in VMware Workstation</title>
+      <link>https://return-to-libc.com/posts/disable-promiscuous-mode-in-vmware-workstation/</link>
+      <pubDate>Fri, 11 Sep 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/posts/disable-promiscuous-mode-in-vmware-workstation/</guid>
+      <description>How to disable promiscuous mode in VMware Workstation Hello everyone.
+It&amp;rsquo;s been a long time since &amp;ldquo;hello world&amp;rdquo;. I hope to be more active from now on&amp;hellip;
+To disable the promiscuous mode of some of the interfaces of our vm the first thing is to turn it off. Then we look for the associated VMX file. We open it with our favorite text editor and add the following (Replace %d with the interface number):</description>
+    </item>
+    
+  </channel>
+</rss>
