@@ -6,11 +6,7 @@
     <description>Recent content in world on Return-to-libc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 18:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://return-to-libc.com/tags/world/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 26 Apr 2020 18:00:00 +0200</lastBuildDate><atom:link href="https://return-to-libc.com/tags/world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello world!</title>
       <link>https://return-to-libc.com/posts/hello-world/</link>

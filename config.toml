@@ -54,12 +54,8 @@ googleAnalytics = "UA-39463839-9"
       logoText = "Return-to-libc"
       logoHomeLink = "/"
 
-#    [languages.en.menu]
-#      [[languages.en.menu.main]]
-#        identifier = "about"
-#        name = "About"
-#        url = "/about"
-#      [[languages.en.menu.main]]
-#        identifier = "showcase"
-#        name = "Showcase"
-#        url = "/showcase"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"

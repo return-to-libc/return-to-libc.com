@@ -1,64 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://return-to-libc.com/tags/container/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/lxc/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/posts/lxc-usb-passthrough-hot-plug/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/passthrough/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/posts/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/proxmox/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/usb/</loc>
+    <lastmod>2022-12-09T23:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/ams/</loc>
+    <lastmod>2020-10-03T19:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/hp/</loc>
+    <lastmod>2020-10-03T19:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/posts/hp-ams-install-in-ubuntu-focal/</loc>
+    <lastmod>2020-10-03T19:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://return-to-libc.com/tags/ubuntu/</loc>
+    <lastmod>2020-10-03T19:30:00+02:00</lastmod>
+  </url><url>
     <loc>https://return-to-libc.com/posts/disable-promiscuous-mode-in-vmware-workstation/</loc>
     <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/tags/network/</loc>
     <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://return-to-libc.com/posts/</loc>
-    <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/tags/promiscuous/</loc>
     <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://return-to-libc.com/</loc>
-    <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://return-to-libc.com/tags/</loc>
-    <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/tags/vmware/</loc>
     <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/tags/workstation/</loc>
     <lastmod>2020-09-11T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/tags/hello/</loc>
     <lastmod>2020-04-26T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/posts/hello-world/</loc>
     <lastmod>2020-04-26T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/tags/world/</loc>
     <lastmod>2020-04-26T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://return-to-libc.com/categories/</loc>
   </url>
-  
 </urlset>

@@ -6,10 +6,78 @@
     <description>Recent content in Tags on Return-to-libc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2022 23:00:00 +0200</lastBuildDate><atom:link href="https://return-to-libc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>container</title>
+      <link>https://return-to-libc.com/tags/container/</link>
+      <pubDate>Fri, 09 Dec 2022 23:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/container/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://return-to-libc.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lxc</title>
+      <link>https://return-to-libc.com/tags/lxc/</link>
+      <pubDate>Fri, 09 Dec 2022 23:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/lxc/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>passthrough</title>
+      <link>https://return-to-libc.com/tags/passthrough/</link>
+      <pubDate>Fri, 09 Dec 2022 23:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/passthrough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proxmox</title>
+      <link>https://return-to-libc.com/tags/proxmox/</link>
+      <pubDate>Fri, 09 Dec 2022 23:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/proxmox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usb</title>
+      <link>https://return-to-libc.com/tags/usb/</link>
+      <pubDate>Fri, 09 Dec 2022 23:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/usb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ams</title>
+      <link>https://return-to-libc.com/tags/ams/</link>
+      <pubDate>Sat, 03 Oct 2020 19:30:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/ams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hp</title>
+      <link>https://return-to-libc.com/tags/hp/</link>
+      <pubDate>Sat, 03 Oct 2020 19:30:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/hp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://return-to-libc.com/tags/ubuntu/</link>
+      <pubDate>Sat, 03 Oct 2020 19:30:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/tags/ubuntu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>network</title>
