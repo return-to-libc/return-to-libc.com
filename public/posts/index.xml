@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Return-to-libc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 23:00:00 +0200</lastBuildDate><atom:link href="https://return-to-libc.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 23:00:00 +0200</lastBuildDate><atom:link href="https://return-to-libc.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flash Dell Perc H200 IT mode</title>
+      <link>https://return-to-libc.com/posts/dell-h200-it-mode/</link>
+      <pubDate>Sun, 21 May 2023 23:00:00 +0200</pubDate>
+      
+      <guid>https://return-to-libc.com/posts/dell-h200-it-mode/</guid>
+      <description>I&amp;rsquo;m building a small rack, and right now I&amp;rsquo;m finishing my 2U backup server (I have to show you a picture when everything is ready)&amp;hellip; I got a Dell Perc H200 controller and my idea was to switch it to IT mode to be able to do the raid directly on the OS.
+And what an odyssey!
+After reading different tutorials, I realised that either the steps were missing, or they were in the wrong order, or it didn&amp;rsquo;t work in UEFI mode (hello 21st century).</description>
+    </item>
+    
     <item>
       <title>LXC USB Passthrough with hot-plug</title>
       <link>https://return-to-libc.com/posts/lxc-usb-passthrough-hot-plug/</link>
