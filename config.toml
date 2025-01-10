@@ -2,7 +2,9 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "github.com/panr/hugo-theme-terminal/v4"
 
-googleAnalytics = ""
+[services]
+  [services.googleAnalytics]
+    id = 'G-DGG1QKLJ91'
 
 [pagination]
   pagerSize = 10
