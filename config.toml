@@ -39,7 +39,7 @@ googleAnalytics = ""
   site = ""
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     languageName = "English"
     title = "Return-to-libc"
     subtitle = "Cybersecurity blog"
