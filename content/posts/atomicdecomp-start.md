@@ -1,6 +1,6 @@
 +++
 title = "New Year, new project. Atomic Bomberman decompilation"
-date = "2025-01-12T00:00:00+01:00"
+date = "2025-01-11T00:00:00+01:00"
 author = "elraro"
 authorTwitter = ""
 cover = ""
